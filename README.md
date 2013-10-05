@@ -1,7 +1,7 @@
 gmailbulksend
 =============
 
-Bulk Sending Email using Google auth
+Bulk Sending Email using Google Oauth
 
 This script aims at sending bulk email to addresses found in a gmail user account. It is a fast way of marketing website using Gmail.
 
