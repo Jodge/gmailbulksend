@@ -13,6 +13,6 @@ $redirectUri = 'your redirect Uri should match the one registered in the api con
       <title>Gmail - Send Mail</title>
    </head>
 <body>
-     <a href="https://accounts.google.com/o/oauth2/auth?client_id=<?php echo $client_id; ?>&redirect_uri=<?php print $redirectUri; ?>&scope=https://www.google.com/m8/feeds/&response_type=code" class="btn btn-danger">Invite Friends</a>
+     <a href="https://accounts.google.com/o/oauth2/auth?client_id=<?php echo $client_id; ?>&redirect_uri=<?php echo $redirectUri; ?>&scope=https://www.google.com/m8/feeds/&response_type=code">Invite Friends</a>
 </body>
 </html>
